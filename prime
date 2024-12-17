@@ -35,3 +35,14 @@ int main() {
 
     return 1;
 }
+
+    Number = 12              1  1  0  0    - Representation of 12 in Binary Format
+                Bitwise OR   0  0  0  1    - Representation of  1 in Binary Format
+                            
+                             1  1  0  1    - Representation of 13 in Binary Format
+    Result- Number was even so bitwise Or by 1 increment the value by 1
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------#KRISHNA
